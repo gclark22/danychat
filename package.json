@@ -1,0 +1,13 @@
+{
+  "name": "danychat",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Danychat — chat, watch videos and play games with friends.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
